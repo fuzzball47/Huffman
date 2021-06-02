@@ -1,6 +1,3 @@
-// Eric Song
-// TA: Kyle Pierce
-//2/17/18
 //HuffmanNode is utilized in the HuffmanTree class, 
 //stores a int representing a character, an int
 //representing the frequency, and two references 
