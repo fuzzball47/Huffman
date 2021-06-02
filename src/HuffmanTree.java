@@ -1,6 +1,3 @@
-// Eric Song
-// TA: Kyle Pierce
-// 3/8/2018
 //This class allows a client to compress a text file
 //using a method called Huffman coding, and also allows
 //the client to decode a previously encoded file
